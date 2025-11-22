@@ -1,2 +1,1 @@
-# MultiAgentSupportHub
-A modular multi-agent support chatbot built with LangGraph 🕸️ and Streamlit 🎨, using LLM-driven intent classification 🤖 to dynamically route queries. Perfect for advanced AI orchestration in customer service automation.
+🛍️ AI-powered multi-agent e-commerce recommendation system using LangGraph 🕸️ and Streamlit 🎨, delivering personalized product suggestions with live web search 🔍 and direct buy links 🔗 for a seamless shopping experience. Perfect blend of advanced AI orchestration and real-world commerce automation 🤖💡.
