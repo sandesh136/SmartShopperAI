@@ -28,4 +28,3 @@ text
 - `app.py`: Main Streamlit app entry
 - `gemini_client`: Google Gemini API integration for search
 - `ui`: Streamlit UI components
-- `utils`: Helper utilities
